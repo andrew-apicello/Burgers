@@ -1,0 +1,31 @@
+body{
+	background: url(https://images.tenplay.com.au/~/media/TV%20Shows/ELEVEN/Bobs%20Burgers/Gifs/BObs.jpg?mw=900);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+}
+
+li {
+	padding: 5px;
+	margin: 5px;
+	background: pink;
+	opacity: 0.95;
+	width: 50%;
+	border: solid black 1px;
+	border-radius: 5px;
+}
+
+.label {
+	font-weight: bold;
+}
+
+.create-update-form {
+	padding: 5px;
+	margin: 5px;
+	background: aqua;
+}
+
+.form-group {
+	margin-bottom: 5px;
+}
